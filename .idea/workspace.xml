@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954eb7ea-1b4c-4554-9bb2-3a16697fb825" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6 kyu - Tortoise racing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 jyu - Array.diff.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +32,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.6 kyu - Tortoise racing">
-    <configuration name="5 kyu - Sum of pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6 kyu - Array.diff">
+    <configuration name="6 kyu - Array.diff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 kyu - Sum of pairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu - Array.diff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6 kyu - Array.diff" />
         <item itemvalue="Python.6 kyu - Tortoise racing" />
         <item itemvalue="Python.6 kyu - Persistent Bugger" />
         <item itemvalue="Python.6 kyu - Tribonacci Sequence" />
         <item itemvalue="Python.6 kyu - Count characters in your string" />
-        <item itemvalue="Python.5 kyu - Sum of pairs" />
       </list>
     </recent_temporary>
   </component>
