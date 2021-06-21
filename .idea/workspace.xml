@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="954eb7ea-1b4c-4554-9bb2-3a16697fb825" name="Default Changelist" comment="" />
+    <list default="true" id="954eb7ea-1b4c-4554-9bb2-3a16697fb825" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/6 kyu - Find the odd int.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
