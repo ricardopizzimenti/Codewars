@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="954eb7ea-1b4c-4554-9bb2-3a16697fb825" name="Default Changelist" comment="" />
+    <list default="true" id="954eb7ea-1b4c-4554-9bb2-3a16697fb825" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/6 kyu - Multiples of 3 or 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/8 kyu - String repeat.py" />
   </component>
-  <component name="RunManager" selected="Python.5 kyu - What's a Perfect Power anyway?">
+  <component name="RunManager" selected="Python.6 kyu - Multiples of 3 or 5">
     <configuration name="4 kyu - Square into Squares. Protect trees!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6 kyu - Give me a Diamond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6 kyu - Multiples of 3 or 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu - Give me a Diamond.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu - Multiples of 3 or 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6 kyu - Multiples of 3 or 5" />
         <item itemvalue="Python.5 kyu - What's a Perfect Power anyway?" />
         <item itemvalue="Python.6 kyu - Build Tower" />
         <item itemvalue="Python.6 kyu - Your order, please" />
         <item itemvalue="Python.4 kyu - Square into Squares. Protect trees!" />
-        <item itemvalue="Python.6 kyu - Give me a Diamond" />
       </list>
     </recent_temporary>
   </component>
